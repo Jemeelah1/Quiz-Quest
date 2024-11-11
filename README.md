@@ -4,36 +4,36 @@ Quiz-Quest is a fun and educational quiz game designed to challenge players’ k
 
 #Game Flow
 1. Main Menu Scene:
-  *Users are greeted with a welcoming screen that includes a Play button.
-  *Once they hit Play, the quiz begins, and questions start appearing on the screen.
+Users are greeted with a welcoming screen that includes a Play button.
+Once they hit Play, the quiz begins, and questions start appearing on the screen.
   
 2. Quiz Mechanics:
-  *Each question presents four answer buttons: only one correct answer and three distractors.
-  *Players earn points for each correct answer and receive immediate feedback.
-  *Wrong answers are indicated, but players can try the next question to keep progressing.
+Each question presents four answer buttons: only one correct answer and three distractors.
+Players earn points for each correct answer and receive immediate feedback.
+Wrong answers are indicated, but players can try the next question to keep progressing.
 
 3. End of Game:
   After the quiz session, players see their total score and are encouraged to replay to improve their score or try    new questions.
   
 #Key Features
-  *Randomized Questions: Ensures each playthrough is unique, with questions presented in a different order each   
-   time.
-  *Dynamic Scoring: Keeps track of the player's score to show improvement over time.
-  *Responsive Feedback: Highlights correct or incorrect answers instantly, providing an interactive experience.
-  *Simple and Engaging UI: Easy-to-use interface that encourages replayability.
+ Randomized Questions: Ensures each playthrough is unique, with questions presented in a different order each time.
+ Dynamic Scoring: Keeps track of the player's score to show improvement over time.
+ Responsive Feedback: Highlights correct or incorrect answers instantly, providing an interactive experience.
+ Simple and Engaging UI: Easy-to-use interface that encourages replayability.
   
 #Technologies Used
-  *Unity Engine: Core development platform for game functionality, UI, and animations.
-  *C# Scripting: Powers game mechanics, question handling, and feedback.
-  *Text Asset Management: Stores questions and answers for easy scalability.
+ Unity Engine: Core development platform for game functionality, UI, and animations.
+ C# Scripting: Powers game mechanics, question handling, and feedback.
+ Text Asset Management: Stores questions and answers for easy scalability.
   
 #Future Enhancements (Planned)
-  *Additional Question Packs: Add new categories and levels of difficulty.
-  *Timer-Based Challenge Mode: Introduce a timed mode for a more intense challenge.
-  *Leaderboards: Implement score tracking and leaderboards to encourage competition among players.
+ Additional Question Packs: Add new categories and levels of difficulty.
+ Timer-Based Challenge Mode: Introduce a timed mode for a more intense challenge.
+ Leaderboards: Implement score tracking and leaderboards to encourage competition among players.
 
 Installation and Usage
-Clone the Repository: git clone https://github.com/yourusername/Quiz-Quest.git
+Clone the Repository:
+git clone https://github.com/yourusername/Quiz-Quest.git
 
 Open in Unity: Open the project in Unity (recommended version XX.X).
 Build and Play: Hit Play in the Unity editor to start testing or build it for your desired platform.
