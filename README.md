@@ -16,20 +16,26 @@ Wrong answers are indicated, but players can try the next question to keep progr
   After the quiz session, players see their total score and are encouraged to replay to improve their score or try    new questions.
   
 #Key Features
- Randomized Questions: Ensures each playthrough is unique, with questions presented in a different order each time.
- Dynamic Scoring: Keeps track of the player's score to show improvement over time.
- Responsive Feedback: Highlights correct or incorrect answers instantly, providing an interactive experience.
+ 1. Randomized Questions: Ensures each playthrough is unique, with questions presented in a different order each time.
+    
+ 2. Dynamic Scoring: Keeps track of the player's score to show improvement over time.
+
+ 3. Responsive Feedback: Highlights correct or incorrect answers instantly, providing an interactive experience.
  Simple and Engaging UI: Easy-to-use interface that encourages replayability.
   
 #Technologies Used
- Unity Engine: Core development platform for game functionality, UI, and animations.
- C# Scripting: Powers game mechanics, question handling, and feedback.
- Text Asset Management: Stores questions and answers for easy scalability.
+ 1. Unity Engine: Core development platform for game functionality, UI, and animations.
+
+ 2. C# Scripting: Powers game mechanics, question handling, and feedback.
+
+ 3. Text Asset Management: Stores questions and answers for easy scalability.
   
 #Future Enhancements (Planned)
- Additional Question Packs: Add new categories and levels of difficulty.
- Timer-Based Challenge Mode: Introduce a timed mode for a more intense challenge.
- Leaderboards: Implement score tracking and leaderboards to encourage competition among players.
+ 1. Additional Question Packs: Add new categories and levels of difficulty.
+
+ 2. Timer-Based Challenge Mode: Introduce a timed mode for a more intense challenge.
+
+ 3. Leaderboards: Implement score tracking and leaderboards to encourage competition among players.
 
 Installation and Usage
 Clone the Repository:
